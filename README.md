@@ -3,5 +3,3 @@
 Some description!
 
 ## Subheader
-
-Github commit
